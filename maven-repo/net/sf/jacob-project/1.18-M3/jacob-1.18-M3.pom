@@ -3,8 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>net.sf.jacob-project</groupId>
-  <artifactId>jacob_x64</artifactId>
-  <version>1.18.3</version>
-  <packaging>dll</packaging>
+  <artifactId>jacob</artifactId>
+  <version>1.18-M3</version>
   <description>POM was created from install:install-file</description>
 </project>
